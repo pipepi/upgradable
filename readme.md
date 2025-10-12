@@ -5,3 +5,4 @@
 - level: 
     - <span style="color:orange; font-size:large;">1</span>
         - test: rust language module and crate rules
+        - implement: json_store_to_file
