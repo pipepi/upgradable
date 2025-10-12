@@ -10,6 +10,6 @@
                 - 2d
                 - 3d
             - web
-    - <span style="color:green; font-size:large;">1</span>
+    - <span style="color:green; font-size:large;">1@</span>
         - test: rust language module and crate rules
         - implement: json_store_to_file
