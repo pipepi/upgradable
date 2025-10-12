@@ -8,8 +8,8 @@ pub fn json_store_to_file() -> Result<(), Box<dyn Error>> {
         email: "alice@example.com".to_string(),
     };
     let json_data = serde_json::to_string_pretty(&person)?;
-    std::fs::write("person.json", json_data)?;
-    println!("Person data written to person.json");
+    std::fs::write("./doc/temp/run_output/person.json", json_data)?;
+    println!("Person data written to ./doc/temp/run_output/person.json");
 
     Ok(())
 }
