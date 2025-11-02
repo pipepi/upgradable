@@ -7,6 +7,7 @@
         - [=> idea_pending_task](./doc/task/pending/idea_pending_task.md) 
     - <span style="color:orange; font-size:large;">2</span>
         - [=> draw_box](./doc/task//todo/draw_box.md)
+        - [=> auto_buy_on_bsc](./doc/task//todo/auto_buy_bsc_jiajia.md)
     - <span style="color:green; font-size:large;">1@</span>
         - test: rust language module and crate rules
         - implement: json_store_to_file
