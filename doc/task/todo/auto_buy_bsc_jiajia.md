@@ -2,6 +2,8 @@
 [<= readme](../../../readme.md)
 ## tech stack 1: dev fastest
 - base on existed project: tx-agent
+- ref link:
+    - [tx agent -> auto-skb](https://github.com/pipe-dapp/zcm_mt_cra_tailwind/tree/auto-buy-bsc-jiajia-dev#)
 ## tech stack 2: web perfect 
 - vite 
     - for build project
